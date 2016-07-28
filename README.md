@@ -1,4 +1,4 @@
 # minds
 
 ---
-this is a test
+个人笔记
